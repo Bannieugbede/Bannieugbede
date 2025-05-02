@@ -44,8 +44,8 @@ Software developer with over 4 years of experience in designing and developing h
 
 ### 📬 Get in Touch
 - **LinkedIn**: [linkedin.com/in/barnabas-ugbede-ejeh/](https://www.linkedin.com/in/barnabas-ugbede-ejeh/)  
-- **Email**: [barnabas.ejeh@example.com](mailto:ejehbarnabasugbede@gmail.com.com)  
-- **Portfolio**: [barnabasejeh.dev](https://barnabasejeh.dev)  
+- **Email**: [ejehbarnabasugbede@gmail.com](mailto:ejehbarnabasugbede@gmail.com)  
+- **Portfolio**: [barnabasugbedeejeh.dev](https://barnabasugbedeejeh.dev)  
 - **GitHub**: You're already here! 😄
 
 ---
