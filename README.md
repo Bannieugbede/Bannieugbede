@@ -1,7 +1,7 @@
 # Hi, I'm Barnabas Ejeh! 👋
 
 ![Profile Banner](https://via.placeholder.com/1200x200.png?text=Full-Stack+Developer)  
-*Full-Stack Developer | Blockchain Enthusiast | Building Seamless Web & Mobile Solutions*
+*Software Developer | Mobile App Dev | Flutter just Dart | Next.Js | | Blockchain Enthusiast*
 
 ---
 
