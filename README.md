@@ -55,5 +55,4 @@ When I’m not coding, I’m exploring universe cuisine or brainstorming the nex
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bannieugbede&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bannieugbede&layout=compact&theme=radical)
