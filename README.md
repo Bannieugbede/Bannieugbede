@@ -42,14 +42,6 @@ Software developer with over 6 years of experience in designing and developing h
 
 ---
 
-### 📬 Get in Touch
-- **LinkedIn**: [linkedin.com/in/barnabas-ugbede-ejeh/](https://www.linkedin.com/in/barnabas-ugbede-ejeh/)  
-- **Email**: [ejehbarnabasugbede@gmail.com](mailto:ejehbarnabasugbede@gmail.com)  
-- **Portfolio**: [barnabasugbedeejeh.dev](https://barnabasugbedeejeh.dev)  
-- **GitHub**: You're already here! 😄
-
----
-
 ### 🎉 Fun Fact
 When I’m not coding, I’m exploring universe cuisine or brainstorming the next big blockchain idea for restaurants!
 
