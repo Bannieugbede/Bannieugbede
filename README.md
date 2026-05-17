@@ -6,7 +6,11 @@
 ---
 
 ### About Me
-Software developer with over 6 years of experience in designing and developing high-performance mobile and web applications. Adept at delivering robust solutions in fast-paced and demanding environments, with a strong focus on user experience, scalability, and performance optimization. Proficient in **cross-platform mobile app development using Flutter,** and backend technologies including **Node.js, Firebase, and MongoDB.** Skilled in building responsive and intuitive mobile applications for iOS, Android, and Web platforms, ensuring seamless functionality across devices. Well-versed in **JavaScript, TypeScript** and experienced in integrating real-time databases, cloud functions, and third-party APIs. Strong understanding of Agile methodologies, actively contributing to sprint planning, daily stand ups, and collaborative team development. Recognized for a performance-oriented and customer-focused approach, with proven expertise in project management, team leadership, and end-to-end software delivery. Committed to continuous learning and leveraging the latest technologies to deliver innovative and scalable digital solutions..
+Software Engineer with over 6 years of experience building scalable frontend | backend systems, RESTful APIs, and AI integrated applications. I’m driven by the power of technology to solve complex problems and create exceptional user experiences from architecting robust microservices to developing engaging gamification features that drive business growth.
+
+
+
+I specialize in **Node.js (NestJS, Express), TypeScript, Flutter, React Native, and cloud platforms (AWS, Azure).** My approach combines clean architecture, performance optimization, and strong cross functional collaboration in Agile environments with frontend, AI/ML, and product teams. I’ve delivered impactful solutions across multiple roles designing gamification systems, integrating machine learning models, building cross platform mobile apps, and deploying scalable cloud infrastructure. Always focused on writing clean, secure, and maintainable code that delivers real value. Open to new opportunities and meaningful connections.
 
 ---
 
